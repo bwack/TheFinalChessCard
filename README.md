@@ -10,7 +10,7 @@ http://blog.worldofjani.com/?p=3460
 ![replica top](tfcc_replica_top.JPG)
 ![replica bottom](tfcc_replica_bottom.JPG)
 
-Note: Rev 1.0 has not yet been prototyped and tested. Use at own risk.
+**Note: Rev 1.0 has not yet been prototyped and tested. Use at own risk.**
 
 # YouTube
 
