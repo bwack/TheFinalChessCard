@@ -9,3 +9,10 @@ http://blog.worldofjani.com/?p=3460
 
 ![replica top](tfcc_replica_top.JPG)
 ![replica bottom](tfcc_replica_bottom.JPG)
+
+Note: Rev 1.0 has not yet been prototyped and tested. Use at own risk.
+
+## Change log
+
+2019-12-31 Rev 1.0: Touched up all bends, used finer grid.
+shown in video: traced up. quick 90 degree bends
