@@ -8,11 +8,12 @@ The scanned images are from the World of Jani blog article about this card. See 
 
 ## preview images from SprintLayout
 
-![replica top](tfcc_replica_top.JPG)
-![replica bottom](tfcc_replica_bottom.JPG)
+![replica top](tfcc_replica_top.JPG?raw=true)
+![replica bottom](tfcc_replica_bottom.JPG?raw=true)
 
 **Note: Rev 1.0 has been [prototyped by Amon_RA on twitter](https://twitter.com/Amon_RA/status/1220659582181224448 "The tweets"). Thank you so much! The Rev 1.0 had a grounded READ pin near the top edge. To find it look at the 74LS32 closest to the CPU, pin 8. If you have Rev 1.0, cut this trace betwen pin8 and GND at top edge.
-![replica 1_0 cut here](tfcc_replica_top_1_0_cut_here.JPG)
+
+![replica 1_0 cut here](tfcc_replica_top_1_0_cut_here.png?raw=true)
 
 I would also like to thank the work by lvr for the schematics draft he posted in [a forum64.de thread](https://www.forum64.de/index.php?thread/73757-the-final-chesscard/&postID=1139564#post1139564 "A draft of the schematics for TheFinalChessCart"). With this schematic I was able to match my gerbers against a netlist generated from his schematics, and in this way the error in Rev 1.0 was easy to spot. The draft was very close to the layout.
 
