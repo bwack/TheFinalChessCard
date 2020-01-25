@@ -17,7 +17,10 @@ The scanned images are from the World of Jani blog article about this card. See 
 
 I would also like to thank the work by lvr for the schematics draft he posted in [a forum64.de thread](https://www.forum64.de/index.php?thread/73757-the-final-chesscard/&postID=1139564#post1139564 "A draft of the schematics for TheFinalChessCart"). With this schematic I was able to match my gerbers against a netlist generated from his schematics, and in this way the error in Rev 1.0 was easy to spot. The draft was very close to the layout. Thanks also to [@thilographie_de](https://twitter.com/thilographie_de) for hunting the error with me.
 
-# YouTube
+# Links
+
+After doing the C64 KU-motherboard and the videoseries, I still hadn't shown my viewers how I went from images to gerber files. This is where I got the motivation for doing this TFCC replica. I made two videos. The first video got linked on Jani's website and also ended up in an article about it on hackaday called [Reverse Engineer PCBs With SprintLayout](https://hackaday.com/2019/12/31/reverse-engineer-pcbs-with-sprintlayout/). :-)
+
 
 [![first video](https://img.youtube.com/vi/g0nkLJ4YQ2c/0.jpg)](https://www.youtube.com/watch?v=g0nkLJ4YQ2c)
 
