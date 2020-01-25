@@ -2,15 +2,19 @@
 
 TheFinalChessCard for C64/C128, replicated using SprintLayout. Here are the sprint and gerber files.
 
-The scanned images are from the World of Jani blog article about this card.
-http://blog.worldofjani.com/?p=3460
+The scanned images are from the World of Jani blog article about this card. See also the forum64.de threads.
+- http://blog.worldofjani.com/?p=3460
+- https://www.forum64.de/index.php?thread/73757-the-final-chesscard/
 
 ## preview images from SprintLayout
 
 ![replica top](tfcc_replica_top.JPG)
 ![replica bottom](tfcc_replica_bottom.JPG)
 
-**Note: Rev 1.0 has not yet been prototyped and tested. Use at own risk.**
+**Note: Rev 1.0 has been [prototyped by Amon_RA on twitter](https://twitter.com/Amon_RA/status/1220659582181224448 "The tweets"). Thank you so much! The Rev 1.0 had a grounded READ pin near the top edge. To find it look at the 74LS32 closest to the CPU, pin 8. If you have Rev 1.0, cut this trace betwen pin8 and GND at top edge.
+![replica 1_0 cut here](tfcc_replica_top_1_0_cut_here.JPG)
+
+I would also like to thank the work by lvr for the schematics draft he posted in [a forum64.de thread](https://www.forum64.de/index.php?thread/73757-the-final-chesscard/&postID=1139564#post1139564 "A draft of the schematics for TheFinalChessCart"). With this schematic I was able to match my gerbers against a netlist generated from his schematics, and in this way the error in Rev 1.0 was easy to spot. The draft was very close to the layout.
 
 # YouTube
 
@@ -21,5 +25,8 @@ http://blog.worldofjani.com/?p=3460
 
 ## Change log
 
+* 2020-01-25 Rev 1.1:
+  * pin 8 "READ" on 74LS32 (near CPU) was grounded. Removed GND.
+  * A trace stopped too early before a via. Still connected. Fixed.
 * 2019-12-31 Rev 1.0: Touched up traces on a finer grid. 45degree bends.
 * shown in video: traced up. quick 90 degree bends
