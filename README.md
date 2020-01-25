@@ -15,7 +15,7 @@ The scanned images are from the World of Jani blog article about this card. See 
 
 ![replica 1_0 cut here](tfcc_replica_top_1_0_cut_here.png?raw=true)
 
-I would also like to thank the work by lvr for the schematics draft he posted in [a forum64.de thread](https://www.forum64.de/index.php?thread/73757-the-final-chesscard/&postID=1139564#post1139564 "A draft of the schematics for TheFinalChessCart"). With this schematic I was able to match my gerbers against a netlist generated from his schematics, and in this way the error in Rev 1.0 was easy to spot. The draft was very close to the layout.
+I would also like to thank the work by lvr for the schematics draft he posted in [a forum64.de thread](https://www.forum64.de/index.php?thread/73757-the-final-chesscard/&postID=1139564#post1139564 "A draft of the schematics for TheFinalChessCart"). With this schematic I was able to match my gerbers against a netlist generated from his schematics, and in this way the error in Rev 1.0 was easy to spot. The draft was very close to the layout. Thanks also to [@thilographie_de](https://twitter.com/thilographie_de) for hunting the error with me.
 
 # YouTube
 
