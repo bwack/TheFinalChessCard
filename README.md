@@ -15,9 +15,8 @@ The scanned images are from the World of Jani blog article about this card. See 
 
 The PCB Rev 1.0 has been [prototyped by Amon_RA on twitter](https://twitter.com/Amon_RA/status/1220659582181224448 "The tweets"). Thank you so much! Here are two images from his setup:
 
-Cartridge            |  Screen
 :-------------------------:|:-------------------------:
-![cart](working_replica_1_0_amon_ra_1.jpg?raw=true)  |  ![screen](working_replica_1_0_amon_ra_1.jpg?raw=true)
+![cart](working_replica_1_0_amon_ra_1.jpg?raw=true)  |  ![screen](working_replica_1_0_amon_ra_2.jpg?raw=true)
 
 
 The Rev 1.0 had a grounded READ pin near the top edge. To find it look at the 74LS32 closest to the CPU, pin 8. If you have Rev 1.0, cut this trace betwen pin8 and GND at top edge. This is fixed in Rev 1.1
