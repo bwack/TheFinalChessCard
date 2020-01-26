@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name finalchesscard_lvr_draft1-eagle-import)(type Legacy)(uri ${KIPRJMOD}/finalchesscard_lvr_draft1-eagle-import.lib)(options "")(descr ""))
+)
