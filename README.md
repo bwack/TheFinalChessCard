@@ -44,7 +44,7 @@ After doing the C64 KU-motherboard and the videoseries, I still hadn't shown my 
 * 2019-12-31 Rev 1.0: Touched up traces on a finer grid. 45degree bends.
 * shown in video: traced up. quick 90 degree bends
 
-# TheFinalChessCard modified in KiCad
+# TheFinalChessCard KiCad (modified replica)
 
 The replica above I'd like to be .. a replica. Some changes are desired.
 In this KiCad version we have moved two ICs back onto the grid. They were just too close for IC sockets.
@@ -58,3 +58,12 @@ Gerbers are available. Look under the KiCad folder.
 ![tfccmod pcb bottom](KiCad/tfcc_bottom_1_1_K1.png?raw=true)
 
 
+## Change log
+The KiCad version branches off from the replica 1.1 board, hence why it is called 1.1.K1 where K is KiCad :)
+** Note that this version has never been prototype. Use at own risk if you decide to do so!
+
+* 2020-01-26 Rev 1.1.K1:
+  * Silkscreen artwork
+  * Thicker power traces (0.63. -> 1mm)
+  * Better space between two ICs. Moved some components to satisfy Cortyard errors.
+  * New reset button. Standard 5x5mm push button.
