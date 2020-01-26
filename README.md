@@ -46,11 +46,11 @@ After doing the C64 KU-motherboard and the videoseries, I still hadn't shown my 
 
 # TheFinalChessCard modified in KiCad pcb.
 
-The replica above I'd like to be as close as the original. Some changes are to be desired.
+The replica above I'd like to be .. a replica. Some changes are desired.
 In this KiCad version we have moved two ICs back onto the grid. They were just too close for IC sockets.
 A zener diode was also too close to the same ICs. The crystal touched some metal. The power rails were thin.
 I have solved the changes in this version.
-The schematics were drafted by lvr as mentioned above regarding the PCB Reb 1.0.
+The schematics were drafted by lvr as mentioned above regarding the PCB Rev 1.0.
 
 Gerbers are available. Look under the KiCad folder.
 
