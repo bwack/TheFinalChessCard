@@ -44,7 +44,7 @@ After doing the C64 KU-motherboard and the videoseries, I still hadn't shown my 
 * 2019-12-31 Rev 1.0: Touched up traces on a finer grid. 45degree bends.
 * shown in video: traced up. quick 90 degree bends
 
-# TheFinalChessCard modified in KiCad pcb.
+# TheFinalChessCard modified in KiCad
 
 The replica above I'd like to be .. a replica. Some changes are desired.
 In this KiCad version we have moved two ICs back onto the grid. They were just too close for IC sockets.
