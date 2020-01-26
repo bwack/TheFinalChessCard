@@ -54,7 +54,7 @@ The schematics were drafted by lvr as mentioned above regarding the PCB Reb 1.0.
 
 Gerbers are available. Look under the KiCad folder.
 
-![tfccmod pcb top](tfcc_top_1_1_K1.png?raw=true)
-![tfccmod pcb bottom](tfcc_bottom_1_1_K1.png?raw=true)
+![tfccmod pcb top](KiCad/tfcc_top_1_1_K1.png?raw=true)
+![tfccmod pcb bottom](KiCad/tfcc_bottom_1_1_K1.png?raw=true)
 
 
