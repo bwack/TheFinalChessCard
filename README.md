@@ -60,7 +60,8 @@ Gerbers are available. Look under the KiCad folder.
 
 ## Change log
 The KiCad version branches off from the replica 1.1 board, hence why it is called 1.1.K1 where K is KiCad :)
-** Note that this version has never been prototype. Use at own risk if you decide to do so!
+
+Note that this version has never been prototype. Use at own risk if you decide to do so!
 
 * 2020-01-26 Rev 1.1.K1:
   * Silkscreen artwork
